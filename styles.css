@@ -1,0 +1,88 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+
+hr {
+  border-top: #DFDFDE dotted 8px;
+  color: white;
+}
+
+.navbar {
+  background-color: #DFDFDE;
+  padding: 9px 20px 9px 20px;
+}
+
+.logo {
+  height: 40px;
+  padding: 0 15px 0 15px;
+}
+
+.web-title {
+  font-size: 20px;
+  color: #1A3C40;
+}
+
+.upper-bar {
+  height: 320px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 60px;
+  right: 20px;
+}
+
+.greeting {
+  font-size: 30px;
+  margin: 0;
+}
+
+.amount {
+  font-size: 70px;
+  margin: 0;
+}
+
+.caption {
+  font-size: 30px;
+  margin: 0;
+}
+
+.positive {
+  color: #83BD75;
+}
+
+.negative {
+  color: #F32424;
+}
+
+.earned-percent {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 0;
+  margin: 0;
+}
+
+.panel {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.lower-bar {
+  height: 435px;
+}
+
+.history-table {
+  width: 70%;
+  margin: auto;
+}
+
+.now {
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #DFDFDE;
+  height: 67px;
+}
